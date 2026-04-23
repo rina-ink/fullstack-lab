@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <title>Rina Ink</title>
+    </head>
+    <body>
+        <img src="/fullstack-lab/primer/images/avatar.jpeg" width="300" height="300" alt="Rina Ink">
+        <h1>Rina Ink</h1>
+        <ul>
+            <li>email@gmail.com</li>
+            <li>phone 404</li>
+        </ul>
+        <h2>Summary</h2>
+        <p>
+            Call me Rina, if you like simplicity. 
+            I am a Data Analyst with 5 yrs of experience in Food Safety. 
+            Currently pursuing to learn web & app dev.
+        </p>
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <h3>AI Software Development</h3>
+                <p>Coding School</p>
+            </li>
+            <li>
+                <h3>Master of Food Safety Management</h3>
+                <p>Faculty of Food Biotechnology</p>
+            </li>
+        </ul>
+    </body>
+ </html>
