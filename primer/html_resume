@@ -1,5 +1,5 @@
 <!DOCTYPE html>
- <html>
+<html>
     <head>
         <title>Rina Ink</title>
     </head>
@@ -23,9 +23,36 @@
                 <p>Coding School</p>
             </li>
             <li>
+                <h3>Data Science & Machine Learning</h3>
+                <p>Code Academy</p>
+            </li>
+            <li>
                 <h3>Master of Food Safety Management</h3>
                 <p>Faculty of Food Biotechnology</p>
             </li>
         </ul>
+        <h2>Experience</h2>
+        <ul>
+            <li>
+                <h3>Scientific Associate/GC Analyst</h3>
+                <p>Lab for Food Analysis</p>
+            </li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>
+                <h3>Pandas</h3>
+                <h3>Matplotlib</h3>
+                <h3>NumPy</h3>
+                <h3>Seaborn</h3>
+            </li>
+        </ul>
+        <h2>Interests</h2>
+        <ul>
+            <li>
+                <h3>Playing bass guitar</h3>
+                <h3>Illustrations</h3>
+            </li>
+        </ul>
     </body>
- </html>
+</html>
